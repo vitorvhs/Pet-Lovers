@@ -3,3 +3,33 @@
     padding: 0;
     border: none;
 }
+
+/* headers and logos */
+
+#logo{
+    float: left;
+    font-size: 250%;
+    margin-left: 25px;
+}
+
+/* navigation links */
+
+#menu{
+    font-size: 100%;
+    letter-spacing: 3px;
+}
+
+#menu, #logo{
+    line-height: 75px;
+}
+
+#menu li{
+    float: right;
+    list-style-type: none;
+    margin-right: 25px;
+}
+
+#menu a{
+    text-decoration: none;
+    color: inherit;
+}
