@@ -4,6 +4,12 @@
     border: none;
 }
 
+.cat-and-dog-image{
+    width: 60%;
+    height: 30%;
+    align-content: center;
+}
+
 /* headers and logos */
 
 #logo{
